@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabhashperera
 - 👀 I’m interested in Java , Web Development
-- 🌱 I’m currently learning Siftware Engineering
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Java , React Js
 - 📫 How to reach me prabashmperera01@gmail.com
 - 😄 Pronouns: MrBhashz
