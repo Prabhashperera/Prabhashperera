@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Java , React Js
 - 📫 How to reach me prabashmperera01@gmail.com
 - 😄 Pronouns: MrBhashz
-- ⚡ Fun fact: I'm a LeftHanded Person
+- ⚡ Fun fact: Java is Worse, But I Love Worse ☺ 
 
 <!---
 Prabhashperera/Prabhashperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
