@@ -1,5 +1,25 @@
-# 💫 About Me:
-👋 Hi, I’m @PrabhashPerera<br>👀 Interested in: Java, Web Development<br>🌱 Currently pursuing: BSc (Hons) in Software Engineering<br>💡 Looking to collaborate on: Java, React.js<br>📫 Reach me at: prabashmperera01@gmail.com<br>😄 Pronouns: MrBhashz<br>⚡ Fun fact: Java might be worse... but I love worse! 👌❤️
+<h1 align="center">💫 Hello, I'm Prabash M Perera 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&width=450&lines=Software+Engineer+in+Progress...;Full-Stack+Developer+(Soon!);Java+Lover+%F0%9F%92%99;React+Explorer+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me  
+- 👀 **Interested in:** Java, Web Development  
+- 🎓 **Currently pursuing:** BSc (Hons) in Software Engineering  
+- 💡 **Looking to collaborate on:** Java, React.js  
+- 📫 **Reach me at:** [prabashmperera01@gmail.com](mailto:prabashmperera01@gmail.com)  
+- 😄 **Pronouns:** MrBhashz  
+- ⚡ **Fun fact:** *Java might be worse... but I love worse!* 👌❤️  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-b
+
 
 
 ## 🌐 Socials:
