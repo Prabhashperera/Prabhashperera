@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hello, I'm Prabash M Perera 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&width=450&lines=Software+Engineer+in+Progress...;Full-Stack+Developer+(Soon!);Java+Lover+%F0%9F%92%99;React+Explorer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&width=450&lines=Software+Engineer+in+Progress...;Full-Stack+Developer+(Soon!);Java+Lover+%F0%9F%92%99;React+Explorer+%F0%9F%92%BB;Smart+Solutions+Need+Dumb+Mistakes" alt="Typing SVG" />
 </p>
 
 <p align="center">
