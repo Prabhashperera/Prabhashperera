@@ -1,51 +1,74 @@
-<h1 align="center">💫 Hello, I'm Prabash M Perera 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Prabash%20M%20Perera&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=60&descAlign=50" alt="Header" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78C6C&center=true&width=450&lines=Software+Engineer+in+Progress...;Full-Stack+Developer+(Soon!);Java+Lover+%F0%9F%92%99;React+Explorer+%F0%9F%92%BB;Smart+Solutions+Need+Dumb+Mistakes" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  <h3>Building scalable backends & interactive frontends.</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+  <p>
+    I am a Software Engineer in progress with a strong passion for <b>Backend Architecture</b> and <b>Full-Stack Development</b>. I love connecting complex logic with clean designs using the MERN stack and Java technologies.
+  </p>
 
-## 🌐 Socials:
+  <br />
 
-<p align="center">
-  <a href="https://instagram.com/PrabashPerera"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/prabash-perera-5968112b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@prabashmperera01"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://stackoverflow.com/users/25151472/prabash-perera"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="mailto:prabashmperera01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+  <a href="https://www.linkedin.com/in/prabash-perera-5968112b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Prabhashperera">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/PrabashPerera">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:prabashmperera01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://medium.com/@prabashmperera01">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</p>
+</div>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhashperera&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-  <br/> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhashperera&theme=radical&hide_border=false">
-  <br/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhashperera&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
+<br />
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p><b>Backend & Database</b></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,python" alt="Backend Skills" />
+  
+  <br/><br/>
+  
+  <p><b>Frontend & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" alt="Frontend Skills" />
+
+  <br/><br/>
+  
+  <p><b>Tools & Version Control</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" alt="Tools" />
+</div>
+
+<br />
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhashperera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhashperera&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhashperera&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
