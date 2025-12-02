@@ -59,12 +59,18 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhashperera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhashperera&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+  <a href="https://github.com/PrabashPerera">
+    <img src="https://github-readme-stats.vercel.app/api?username=PrabashPerera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/PrabashPerera">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabashPerera&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhashperera&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+  <a href="https://github.com/PrabashPerera">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabashPerera&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+  </a>
 </div>
 
 <br />
